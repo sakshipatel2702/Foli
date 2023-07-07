@@ -1,0 +1,20 @@
+.text-overlay {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    text-align: left;
+    font-weight: bold;
+  }
+
+  .button-container button {
+    background-color: #b55d45;
+    height: 60px;
+    width: 200px;
+    color: white;
+    font-size: 25px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  

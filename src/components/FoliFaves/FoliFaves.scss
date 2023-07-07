@@ -1,0 +1,20 @@
+.foliFaves{
+    margin: 100px 400px;
+}
+
+.middle{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.button-container button {
+    background-color: #b55d45;
+    height: 50px;
+    width: 150px;
+    color: white;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
